@@ -1,4 +1,4 @@
-##🚀 How to Run
+## 🚀 How to Run
         1.	Hardware Setup:
 	2•	Connect each LED to one of the pins defined in the LEDpin array through a 220-ohm resistor.
 	2•	Connect the other end of the resistors to Arduino digital pins and the LED cathodes to GND.
