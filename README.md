@@ -1,15 +1,15 @@
 ### How to Run
--	1.	Hardware Setup:
--	•	Connect each LED to one of the pins defined in the LEDpin array through a 220-ohm resistor.
--	•	Connect the other end of the resistors to Arduino digital pins and the LED cathodes to GND.
--	2.	Upload the Code:
--	•	Open the code in Arduino IDE.
--	•	Select the appropriate board and port.
--	•	Upload the code to the board.
--	3.	Test Functionality:
--	•	Open the serial monitor at a baud rate of 115200.
--	•	Send a number between 0 and 255.
--	•	Each bit of the sent number will control the state of a corresponding LED (ON/OFF).
+  1.	Hardware Setup:
+	2•	Connect each LED to one of the pins defined in the LEDpin array through a 220-ohm resistor.
+	2•	Connect the other end of the resistors to Arduino digital pins and the LED cathodes to GND.
+	3.	Upload the Code:
+	4•	Open the code in Arduino IDE.
+	5•	Select the appropriate board and port.
+	6•	Upload the code to the board.
+  7.	Test Functionality:
+	8•	Open the serial monitor at a baud rate of 115200.
+	9•	Send a number between 0 and 255.
+	10•	Each bit of the sent number will control the state of a corresponding LED (ON/OFF).
 
 
 
